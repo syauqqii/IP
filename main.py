@@ -1,3 +1,5 @@
+# ssh -R apapunitu:80:localhost:8888 serveo.net
+
 from os import system, name
 
 try:
