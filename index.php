@@ -8,7 +8,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])){
         $ipaddress = $_SERVER['REMOTE_ADDR'] . "\r\n";
 }
 
-$file = fopen("../ip.txt", "w+");
+$file = fopen("ip.txt", "w+");
 fputs($file, $ipaddress);
 fclose($file);
 
