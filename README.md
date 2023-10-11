@@ -4,3 +4,5 @@ Gunakan Port Forwarding untuk menjalankan program diatas.
 - Ngrok
 - Serveo
 - Tunneling
+
+`python main.py -ip {ip}`
