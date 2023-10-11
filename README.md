@@ -5,7 +5,7 @@ Gunakan Port Forwarding untuk menjalankan program diatas.
 - Serveo
 - Tunneling
 
-### Penggunaan
+### Contoh Penggunaan dengan Serveo
 1. `git clone https://github.com/syauqqii/IP`
 2. `cd IP`
 3. `php -S localhost:666`
