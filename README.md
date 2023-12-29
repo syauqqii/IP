@@ -1,11 +1,11 @@
-### IP
+## **IP**
 Gunakan Port Forwarding untuk menjalankan program diatas.
 > Seperti :
-- Ngrok
-- Serveo
-- Tunneling
+> - Ngrok
+> - Serveo
+> - Tunneling
 
-### Contoh Penggunaan dengan Serveo
+## **Contoh Penggunaan dengan Serveo**
 ```bash
 git clone https://github.com/syauqqii/IP
 ```
