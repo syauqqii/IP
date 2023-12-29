@@ -1,6 +1,6 @@
 ## **IP**
-#### Program ini bertujuan untuk edukasi, mengambil alamat berdasarkan IP dari target (Tidak akurat 100%).
-Gunakan Port Forwarding untuk menjalankan program, seperti :
+> Program ini bertujuan untuk edukasi, mengambil alamat berdasarkan IP dari target (Tidak akurat 100%).
+#### Gunakan Port Forwarding untuk menjalankan program, seperti :
 > - Ngrok
 > - Serveo
 > - Tunneling
