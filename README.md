@@ -1,6 +1,6 @@
 ## **IP**
 Gunakan Port Forwarding untuk menjalankan program diatas.
-> Seperti :
+*Seperti* :
 > - Ngrok
 > - Serveo
 > - Tunneling
